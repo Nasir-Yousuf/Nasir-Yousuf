@@ -1,11 +1,61 @@
-### Hi there 👋, I'm Nasir 
-![](https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/71407255_515220789328403_3880086327223386112_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHrdfh_J_w6lRk-mkh40Dm9tn1-o4Ylv6m2fX6jhiW_qbsOFHTdZ4wH9Qbn8zn0rCVx1RWa_1smwVlyaL94dQME&_nc_ohc=f_IAQykimd4AX9XmhAE&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8sm2ZW9wxE8HFXXxspW3h7AjeS1wbGT4eRrpLjEvGXGg&oe=62D26795)
+# Hi, I'm Nasir Yousuf 👋
 
-I'm a web developer with a focus on ReactJS, but still exploring other technologies and frameworks that catch my interest!
+### Full-Stack Developer | MERN Stack | Lifelong Learner
 
-Skills: HTML/CSS/SCSS/BOOTSTRAP/JS/REACT/REACT-REDUX/NODE JS/PHP 
+I'm a self-taught developer passionate about building practical, user-friendly web applications that solve real-world problems. I enjoy learning how things work under the hood and turning ideas into working products through hands-on projects.
 
+I also work as a **Content Head at Social Tamai**, bringing experience in video production, digital content, and online marketing. This creative background helps me think beyond code and focus on user experience, communication, and real business needs.
 
+---
 
+## 🛠️ Tech Stack
 
+* **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+* **Backend:** Node.js, Express.js, REST APIs
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, Vite, Postman
+* **Currently Exploring:** TypeScript, Next.js, and scalable application architecture
 
+## 🚀 Featured Projects
+
+### 🩸 Blood Donation App
+
+A MERN stack application designed to connect blood donors with people in need.
+
+* User authentication and role-based access
+* Blood donation requests and request management
+* Location-based donor discovery
+* MongoDB geospatial search
+
+### 💬 Clearfeed
+
+A text-based social platform focused on sharing ideas and building community.
+
+* Social posting and community interaction
+* Full-stack application architecture
+* Exploring interactive programming education and typing practice features
+
+## 🌱 Currently Working On
+
+* Strengthening my JavaScript and React fundamentals
+* Building full-stack applications with authentication, APIs, databases, and deployment
+* Writing cleaner, more maintainable code
+* Improving problem-solving skills through practical projects
+* Exploring modern web technologies and development workflows
+
+## 🤝 Open to Opportunities
+
+I'm interested in **junior full-stack developer roles, internships, and collaborative projects** where I can contribute, learn from experienced developers, and grow as an engineer.
+
+I bring technical curiosity, creative thinking, real-world digital content experience, and a commitment to continuous improvement.
+
+## 📫 Connect With Me
+
+* **GitHub:** [Nasir-Yousuf](https://github.com/Nasir-Yousuf)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nasir-yousuf200511/)
+* **Portfolio:** [Visit my portfolio](https://nasir-yousuf.vercel.app/)
+* **Email:** [nasiryousuf200511@gmail.com](mailto:nasiryousuf200511@gmail.com)
+
+---
+
+*Learn continuously. Build consistently. Improve with every project.*
